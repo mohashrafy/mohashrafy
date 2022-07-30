@@ -10,7 +10,7 @@
 ### Hi there 👋
 
 - 💻 I am a [**Structural Engineer**] and [**Data Science Enthusiast**]; working on the vulnerability and analysis of the structures in extreme conditions. I'm working for Python and Machine Learning contents, every single day, to develop better and more efficient algorithms and softwares in near future.
-- 🤔 I’m currently studying Python programming and Machine Learning and trying to improve myself in the professional and standard computer science community. Please check my profile and inform me of your ideas. In addition, I am trying to develop databases for training my ML models. 
+- 🤔 I’m studying Machine Learning and trying to improve myself in the professional and standard computer science community. Please check my profile and inform me of your ideas. In addition, I am trying to develop databases for training my ML models. 
 - 📫 How to reach me: mohammad.ashrafy@gmail.com Currently I am a senior lecturer in KUT and can find me there :D
 ## I love data; I live with data 😁👍
 <div>
