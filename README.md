@@ -12,7 +12,7 @@
 - 💻 I am a [**Structural Engineer**] and [**Data Science Enthusiast**]; working on the vulnerability and analysis of the structures in extreme conditions. I'm working for Python and Machine Learning contents, every single day, to develop better and more efficient algorithms and softwares in near future.
 - 🤔 I’m studying Machine Learning and trying to improve myself in the professional and standard computer science community. Please check my profile and inform me of your ideas. In addition, I am trying to develop databases for training my ML models. 
 - 📫 How to reach me: mohammad.ashrafy@gmail.com 
-                      Currently, I am a senior lecturer at CEE Dep.,KUT and can find me there :D
+                      Currently, I am a senior lecturer at CEE Dep., KUT, and a Postdoctoral Fellow at Razi University. Anyone who care, can find me there :D
 ## I love data; I live with data 😁👍
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohashrafy&show_icons=true&locale=en&layout=compact" alt="mohashrafy" />
